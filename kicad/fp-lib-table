@@ -1,0 +1,13 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/DRV8871/footprints.pretty") (options "") (descr ""))
+	(lib (name "1294_bat") (type "KiCad") (uri "${KIPRJMOD}/1294_bat") (options "") (descr ""))
+	(lib (name "LM2596SX_3_3_NOPB") (type "KiCad") (uri "${KIPRJMOD}/LM2596SX_3_3_NOPB") (options "") (descr ""))
+	(lib (name "footprintspe") (type "KiCad") (uri "${KIPRJMOD}/PE_53933SNL/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "footprintsk32") (type "KiCad") (uri "${KIPRJMOD}/ul_SK32-7/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "PEC12R_4220F_S0024") (type "KiCad") (uri "${KIPRJMOD}/PEC12R_4220F_S0024") (options "") (descr ""))
+	(lib (name "footprintsmcp73213") (type "KiCad") (uri "${KIPRJMOD}/MCP73213_A6W_MF/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "usbc") (type "KiCad") (uri "${KIPRJMOD}/10133475_10001LF") (options "") (descr ""))
+	(lib (name "usbcc") (type "KiCad") (uri "${KIPRJMOD}/10171746_00021LF") (options "") (descr ""))
+	(lib (name "footprintsTMP235A") (type "KiCad") (uri "${KIPRJMOD}/TMP235AQDBZRQ1/KiCADv6/footprints.pretty") (options "") (descr ""))
+)
