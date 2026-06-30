@@ -12332,7 +12332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Cin"
+		(property "Value" "1uF/25v"
 			(at 22.352 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12413,7 +12413,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Cout"
+		(property "Value" "1uF/16v"
 			(at 35.052 158.496 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14226,7 +14226,7 @@
 				)
 			)
 		)
-		(property "Value" "RProg"
+		(property "Value" "2.3k"
 			(at 122.936 155.448 0)
 			(show_name no)
 			(do_not_autoplace no)
